@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "§3§lEnderCore Texture Pack TEMP",
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 99
+    }
+  }
+}
